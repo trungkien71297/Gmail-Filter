@@ -1,0 +1,10 @@
+G:\FilterGmail\FilterGmail\bin\Debug\FilterGmail.exe.config
+G:\FilterGmail\FilterGmail\bin\Debug\FilterGmail.exe
+G:\FilterGmail\FilterGmail\bin\Debug\FilterGmail.pdb
+G:\FilterGmail\FilterGmail\obj\Debug\FilterGmail.Properties.Resources.resources
+G:\FilterGmail\FilterGmail\obj\Debug\FilterGmail.csproj.GenerateResource.cache
+G:\FilterGmail\FilterGmail\obj\Debug\FilterGmail.csproj.CoreCompileInputs.cache
+G:\FilterGmail\FilterGmail\obj\Debug\FilterGmail.exe
+G:\FilterGmail\FilterGmail\obj\Debug\FilterGmail.pdb
+G:\FilterGmail\FilterGmail\obj\Debug\FilterGmail.csproj.AssemblyReference.cache
+G:\FilterGmail\FilterGmail\obj\Debug\FilterGmail.Form1.resources
